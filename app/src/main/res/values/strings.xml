@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Submission 3</string>
+    <string name="nav_header_subtitle">Dictionary</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_title">Search</string>
+    <string name="loading">Loading</string>
+    <string name="app_first_run">First Run</string>
+
+    <string name="english_indonesia"><![CDATA[English -> Indonesia]]></string>
+    <string name="indonesia_english"><![CDATA[Indonesia -> English]]></string>
+    <string name="translate">Terjemahan</string>
+</resources>

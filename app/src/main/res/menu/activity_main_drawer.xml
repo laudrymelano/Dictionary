@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Dictionary">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_e_i"
+                    android:icon="@drawable/ic_library_books_black_24dp"
+                    android:title="@string/english_indonesia" />
+                <item
+                    android:id="@+id/nav_i_e"
+                    android:icon="@drawable/ic_library_books_black_24dp"
+                    android:title="@string/indonesia_english" />
+            </group>
+
+        </menu>
+    </item>
+
+</menu>
